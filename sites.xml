@@ -1,0 +1,51 @@
+<site-list version="10">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>12.0.0.0</version>
+    <date-created>07/09/2021 18:42:22</date-created>
+  </created-by>
+  <site url="adp.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="certify.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="myapps.microsoft.com/signin/Certify/1c25fdfb-f390-480d-b46b-84584bee49ca">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="login.microsoftonline.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>None</open-in>
+  </site>
+  <site url="pa.lisc.org">
+    <compat-mode>IE7</compat-mode>
+    <open-in app="true">IE11</open-in>
+  </site>
+  <site url="jostle.us">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="einvoice-internal.lisc.org">
+    <compat-mode>IE7</compat-mode>
+    <open-in app="true">IE11</open-in>
+  </site>
+  <site url="kpi-internal.lisc.org">
+    <compat-mode>IE7</compat-mode>
+    <open-in app="true">IE11</open-in>
+  </site>
+  <site url="kpi.lisc.org">
+    <compat-mode>IE7</compat-mode>
+    <open-in app="true">IE11</open-in>
+  </site>
+  <site url="ez.lisc.org">
+    <compat-mode>IE7</compat-mode>
+    <open-in app="true">IE11</open-in>
+  </site>
+  <site url="lhqrepository/reports">
+    <compat-mode>IE7</compat-mode>
+    <open-in app="true">IE11</open-in>
+  </site>
+</site-list>
